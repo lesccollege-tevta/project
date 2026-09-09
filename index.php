@@ -1,3 +1,3 @@
 <?php
-echo "Welcomeee ";
+echo "Wecomr ";
 ?>
